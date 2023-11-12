@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dnd-test/static/css/main.b1d7ec7b.css",
+    "main.js": "/dnd-test/static/js/main.e2fb638c.js",
+    "static/js/787.af5793de.chunk.js": "/dnd-test/static/js/787.af5793de.chunk.js",
+    "index.html": "/dnd-test/index.html",
+    "main.b1d7ec7b.css.map": "/dnd-test/static/css/main.b1d7ec7b.css.map",
+    "main.e2fb638c.js.map": "/dnd-test/static/js/main.e2fb638c.js.map",
+    "787.af5793de.chunk.js.map": "/dnd-test/static/js/787.af5793de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.e2fb638c.js"
+  ]
+}
